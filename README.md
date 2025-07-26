@@ -1,6 +1,6 @@
 # AIDdrug
-> An AI-Powered Platform for Investigating Disease-Drug Association.
-![image](Data/图片1.png)
+> <p align="center">An AI-Powered Platform for Investigating Disease-Drug Association.</p>
+ ![image](Data/图片1.png)
 
 ## File Description:
 Code: Data processing related code.
